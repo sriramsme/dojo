@@ -1,7 +1,9 @@
 # dojo
 
-[](./assets/1.jpg)
-[](./assets/2.jpg)
+<p align="left">
+  <img src="./assets/1.JPG" height=300 />
+  <img src="./assets/2.PNG" height=300 />
+</p>
 
 a repo for learning stuff by DIY. become less dumb.
 
